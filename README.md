@@ -1,1 +1,1 @@
-Simple_shell tasks by Jessica Ireogueche and Emmanuel Okwori
+Simple shell team project by Jessica Ireogueche and Emmanuel Okwori
